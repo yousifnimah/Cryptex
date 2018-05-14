@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8602e578-b3f6-4917-b397-bfb68c29d0e1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Yousif.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Algorithm/Algorithm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Cryptex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeonardoDaVinci/config/cryptex.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Algorithm/Algorithm.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Algorithm/Algorithm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Cryptex.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Cryptex.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeonardoDaVinci/config/cryptex.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeonardoDaVinci/config/cryptex.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Cryptex.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Cryptex.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Cryptex.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="715">
+              <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -36,17 +34,17 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="216">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Algorithm.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Algorithm.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Algorithm/Algorithm.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
-              <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="43" />
+            <state relative-caret-position="706">
+              <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -663,12 +661,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526236256279</updated>
-      <workItem from="1526236257812" duration="12793000" />
+      <workItem from="1526236257812" duration="12885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12793000" />
+    <option name="totallyTimeSpent" value="12885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1026" extended-state="6" />
@@ -704,13 +702,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Cryptex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeonardoDaVinci/config/cryptex.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -720,15 +711,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="216">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Algorithm/Algorithm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="43" />
+        <state relative-caret-position="706">
+          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeonardoDaVinci/Cryptex/Cryptex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
         </state>
       </provider>
     </entry>
